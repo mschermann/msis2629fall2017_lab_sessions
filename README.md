@@ -1,2 +1,3 @@
-# msis2629fall2017_lab_sessions
-Lab Session Data, Materials, Solutions
+# Lab Session Material
+
+Clone this repository to get access to the lab Session data, mterials, and solutions.
